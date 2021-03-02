@@ -1,0 +1,12 @@
+b'Jan 12 23:21:51 925377ac315fa04465ae38467b597af1 systemd[1773]: Started Tracker metadata database store and lookup manager.\n'
+b'Jan 12 23:21:53 925377ac315fa04465ae38467b597af1 dbus-daemon[1785]: [session uid=1000 pid=1785] Activating via systemd: service name=\'org.freedesktop.Tracker1.Miner.Extract\' unit=\'tracker-extract.service\' requested by \':1.1\' (uid=1000 pid=1781 comm="/usr/libexec/tracker-miner-fs " label="unconfined")\n'
+b'Jan 12 23:21:53 925377ac315fa04465ae38467b597af1 systemd[1773]: Starting Tracker metadata extractor...\n'
+b'Jan 12 23:21:53 925377ac315fa04465ae38467b597af1 tracker-extract[9266]: Set scheduler policy to SCHED_IDLE\n'
+b'Jan 12 23:21:53 925377ac315fa04465ae38467b597af1 tracker-extract[9266]: Setting priority nice level to 19\n'
+b"Jan 12 23:21:53 925377ac315fa04465ae38467b597af1 dbus-daemon[1785]: [session uid=1000 pid=1785] Successfully activated service 'org.freedesktop.Tracker1.Miner.Extract'\n"
+b'Jan 12 23:21:53 925377ac315fa04465ae38467b597af1 systemd[1773]: Started Tracker metadata extractor.\n'
+b'Jan 12 23:21:54 925377ac315fa04465ae38467b597af1 systemd-resolved[791]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.\n'
+b'Jan 12 23:21:54 925377ac315fa04465ae38467b597af1 systemd-resolved[791]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.\n'
+b'Jan 12 23:21:59 925377ac315fa04465ae38467b597af1 systemd-resolved[791]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.\n'
+b'Jan 12 23:22:04 925377ac315fa04465ae38467b597af1 systemd-resolved[791]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.\n'
+b'Jan 12 23:22:10 925377ac315fa04465ae38467b597af1 systemd-resolved[791]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.\n'
